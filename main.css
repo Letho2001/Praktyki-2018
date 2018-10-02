@@ -1,0 +1,32 @@
+body
+{
+	background-color: #28587B;
+	color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+
+h1
+{
+	font-size: 36px;
+	font-weight: 400;
+	color: #C0D06F;
+	margin: 20px;
+}
+
+.players
+{
+	text-align: justify;
+}
+
+.players p
+{
+	margin-bottom: 30px;
+}
+
+.players figcaption
+{
+	margin-top: 8px;
+}
+
+
